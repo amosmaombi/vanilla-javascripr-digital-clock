@@ -1,1 +1,1 @@
-# vanilla-javascripr-digital-clock
+# vanilla-javascript-digital-clock
